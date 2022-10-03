@@ -20,7 +20,7 @@
 </br>
 
 <div>
-<a href = "https://github.com/fealexdev">
+<a href = "https://github.com/fealexdev?tab=repositories">
 <img src = "https://github-readme-stats.vercel.app/api?username=fealexdev&theme=monokai&show_icons=true">
 </div>
 
