@@ -1,12 +1,13 @@
 ### Prazer, visitante! 👋
 ### Sobre mim:
-- 💬 Cursando Análise e Desenvolvimento de Sistemas e estagiando na área.
-- 💻 Atualmente aprendendo sobre tecnologias back-end.
+- 💬 Formado em Análise e Desenvolvimento de Sistemas.
+- 💻 Atualmente aprendendo sobre C# e focando em tecnologias back-end.
 
 ### Linguagens e ferramentas que utilizo:
 <div>
-<img src="https://img.shields.io/badge/Java-ED8B00?flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?flatc&logo=postgresql&logoColor=white"/>
 </div>
 
