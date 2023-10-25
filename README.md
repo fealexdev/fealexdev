@@ -13,15 +13,15 @@
 
 ### Contato:
 <div>
-<a href = "https://www.linkedin.com/in/felipeoliv/">
-<img src = "https://img.shields.io/badge/LinkedIn-0077B5?social&logo=linkedin&logoColor=white"> 
-<a href = "https://github.com/fealexdev">
-<img src = "https://img.shields.io/github/followers/fealexdev?label=follow&style=social">
+<a href="https://www.linkedin.com/in/felipeoliv">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?social&logo=linkedin&logoColor=white"> 
+<a href="https://github.com/fealexdev">
+<img src="https://img.shields.io/github/followers/fealexdev?label=follow&style=social">
 </div>
 </br>
 
 <div>
-<a href = "https://github.com/fealexdev?tab=repositories">
-<img src = "https://github-readme-stats.vercel.app/api?username=fealexdev&theme=monokai&show_icons=true">
+<a href="https://github.com/fealexdev?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api?username=fealexdev&theme=material-palenight&show_icons=true">
 </div>
 
