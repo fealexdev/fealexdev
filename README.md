@@ -1,7 +1,7 @@
 ### Prazer, visitante! 👋
 ### Sobre mim:
 - 💬 Formado em Análise e Desenvolvimento de Sistemas.
-- 💻 Atualmente aprendendo sobre C# e focando em tecnologias back-end.
+- 💻 Atualmente aprendendo sobre C# e focado em tecnologias back-end.
 
 ### Linguagens e ferramentas que utilizo:
 <div>
